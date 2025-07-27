@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Rudra Pratap Sinha
 
-<!--
-**Rudra070311/Rudra070311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 14-year-old student from India, passionate about robotics, space, and coding.  
+🎯 Goal: To innovate, solve real-world problems, and study at MIT.
 
-Here are some ideas to get you started:
+## Current Projects
+-  Arduino-powered obstacle-avoiding rover
+-  Exploring space tech, GPS rovers, and future rover missions
+-  Learning Python, C++, and competitive programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Space science and astrophysics 🌌
+- Robotics and embedded systems
+- Open-source hardware/software
+
+## On a Mission
+To build, learn, and inspire — one project at a time.
