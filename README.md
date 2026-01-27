@@ -1,11 +1,12 @@
-# 👋 Hi, I'm Rudra Pratap Sinha
+# Hi, I'm Rudra Pratap Sinha
 
  14-year-old student from India, passionate about robotics, space, and coding.  
  Goal: To innovate, solve real-world problems, and study at MIT.
 
 ## Current Projects
--  Learning Android Studio
--  Learning Python, C++, and competitive programming
+-  Learning Next.js
+-  Learning Python, Node.js, and competitive programming
+-  Investt Financial Literary App
 
 ## Interests
 - Space science and astrophysics
